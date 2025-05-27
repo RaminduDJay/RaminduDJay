@@ -32,8 +32,8 @@
 
 ### ✅ Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,js,php" height="30"/>
-  <img src="https://img.shields.io/badge/Scala-%23DC322F?style=flat&logo=scala&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,js,php,java,scala" height="30"/>
+<!--   <img src="https://img.shields.io/badge/Scala-%23DC322F?style=flat&logo=scala&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/GNU_Octave-0790C0?style=flat&logo=gnu&logoColor=white" />
 </p>
 
